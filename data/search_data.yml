@@ -1,0 +1,6 @@
+test_search:
+  - 'display'
+  - 'network'
+test_search_2:
+  - 'battery'
+  - 'sound'

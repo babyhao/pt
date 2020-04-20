@@ -1,0 +1,84 @@
+{
+  "uid" : "1fc38cc8d1b63c40",
+  "name" : "test_d",
+  "fullName" : "demos.demo2.TestABC#test_d",
+  "historyId" : "3e80a28192c8d48297cad2fc8e089268",
+  "time" : {
+    "start" : 1587288868898,
+    "stop" : 1587288868898,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "测试d",
+      "time" : {
+        "start" : 1587288868898,
+        "stop" : 1587288868898,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "parentSuite",
+    "value" : "demos"
+  }, {
+    "name" : "suite",
+    "value" : "demo2"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestABC"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-FES863A"
+  }, {
+    "name" : "thread",
+    "value" : "776-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "demos.demo2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1fc38cc8d1b63c40.json",
+  "parameterValues" : [ ]
+}
