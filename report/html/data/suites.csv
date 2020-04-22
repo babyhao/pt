@@ -1,6 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Apr 19 17:34:28 CST 2020","Sun Apr 19 17:34:28 CST 2020","5","demos","demo2","TestABC","","","test_b",""
-"passed","Sun Apr 19 17:34:28 CST 2020","Sun Apr 19 17:34:28 CST 2020","1","demos","demo2","TestABC","","","test_c",""
-"passed","Sun Apr 19 17:34:28 CST 2020","Sun Apr 19 17:34:28 CST 2020","0","demos","demo2","TestABC","","","test_d",""
-"passed","Sun Apr 19 17:34:28 CST 2020","Sun Apr 19 17:34:28 CST 2020","1","demos","demo2","TestABC","","","test_e",""
-"passed","Sun Apr 19 17:34:28 CST 2020","Sun Apr 19 17:34:28 CST 2020","3","demos","demo2","TestABC","","","test_a",""
